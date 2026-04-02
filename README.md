@@ -1,7 +1,7 @@
 # myfastfetchconfig
 a modified fastfetch config by RevalensK
 
-<img title="ff image" alt="a image" src="">
+<img title="ff image" alt="a image" src="ffguthib.png">
 
 # how to install
 You can git clone the repo in your fastfetch config (~ /.config/fastfetch)
